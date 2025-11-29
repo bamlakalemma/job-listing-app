@@ -6,8 +6,6 @@ A modern job listing application built with Next.js, React, and Tailwind CSS.
 
 - Browse job listings
 - View detailed job descriptions
-- Filter and sort job opportunities
-- Responsive design for all devices
 
 ## Screenshots
 
